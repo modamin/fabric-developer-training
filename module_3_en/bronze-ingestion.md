@@ -31,7 +31,7 @@ date arithmetic.
 2. Delete or drop the table `workforce_events_raw` table from the lakehouse `lh_meridian_hr` if it already exists there. 
 3. In all three notebooks, mark Cell 2 as the **parameter cell** so the pipeline
    can override the values.
-4. In `Meridian-HR-Lab`: **+ New item → Data pipeline**, name it
+4. In your lab workspace: **+ New item → Data pipeline**, name it
    `pl_ingest_events`.
 5. Add a **Notebook** activity named `SetupTargetTable` and select
    `nb_setup_lakehouse`. It exits the watermark the next activity consumes:
@@ -52,8 +52,7 @@ date arithmetic.
    ```text
    @json(activity('SetupTargetTable').output.result.exitValue).watermark
    ```
-3. The notebook uses that watermark as-is — it no longer reads the control
-   table. It lists the files through the GitHub Contents API, keeps only months
+3. The notebook lists the files through the GitHub Contents API, keeps only months
    later than the watermark (capped at 60), and exits this JSON:
    ```json
    {
@@ -87,15 +86,15 @@ date arithmetic.
    ```text
    https://raw.githubusercontent.com/modamin/fabric-developer-training/main/data/
    ```
+   
    Set the relative URL in the Copy activity to the current item — the notebook
    already returns the correct path, so no expression building is needed:
    ```text
    @item()
    ```
-   Format DelimitedText, header on.
-   Switch the **File Format** to `Delimited Text`
-3. **Destination**: select Lakehouse `lh_meridian_hr`, choose **Tables**, and
-   select the `bronze` schema. Set the table name to `workforce_events_raw` and
+   
+   Switch the **File Format** to `Delimited Text`.
+3. **Destination**: select Lakehouse `lh_meridian_hr`, choose **Tables**, click the check box `Enter manually`. Enter `bronze` for schema and `workforce_events_raw` for table name
    the table action to **Append**. The pipeline writes directly to the Delta
    table `bronze.workforce_events_raw`.
 
