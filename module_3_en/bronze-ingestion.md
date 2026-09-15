@@ -22,17 +22,18 @@ date arithmetic.
 ## 1. Create the pipeline
 
 1. Import these notebooks into the workspace and attach `lh_meridian_hr` as the
-   default lakehouse for each:
+   **default lakehouse for each**:
    - `notebooks/nb_setup_lakehouse.ipynb` — pre-creates the target table,
      creates and seeds the watermark, and returns the current watermark.
    - `notebooks/nb_list_event_files.ipynb` — takes the watermark as input,
      lists the GitHub files, and returns the new ones.
    - `notebooks/nb_update_watermark.ipynb` — advances the watermark.
-2. In all three notebooks, mark Cell 2 as the **parameter cell** so the pipeline
+2. Delete or drop the table `workforce_events_raw` table from the lakehouse `lh_meridian_hr` if it already exists there. 
+3. In all three notebooks, mark Cell 2 as the **parameter cell** so the pipeline
    can override the values.
-3. In `Meridian-HR-Lab`: **+ New item → Data pipeline**, name it
+4. In `Meridian-HR-Lab`: **+ New item → Data pipeline**, name it
    `pl_ingest_events`.
-4. Add a **Notebook** activity named `SetupTargetTable` and select
+5. Add a **Notebook** activity named `SetupTargetTable` and select
    `nb_setup_lakehouse`. It exits the watermark the next activity consumes:
    ```json
    {
@@ -127,12 +128,11 @@ the final three files (`2025-10`, `2025-11`, `2025-12`) between runs.
    `ListNewFiles` returns every published file and the loop copies them through
    **2025-09**. Query
    `bronze.ingestion_watermark` and confirm `watermark_timestamp` is
-   `2025-09-01 00:00:00`. 
+   `2025-09-01 00:00:00`.
    
-
    > **Instructor only:** restore the three parked files now, before anyone
    > starts the incremental run — see [instructor.md](instructor.md).
-
+   
 2. **Incremental run.** After the instructor publishes the last three files,
    run the pipeline again. `ListNewFiles` now returns only `2025-10`, `2025-11`,
    and `2025-12`, so the loop runs exactly **three** Copy activities and the
