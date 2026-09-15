@@ -1,0 +1,121 @@
+cost_center_id,cost_center_name,branch,hr_region,business_line
+CC0001,Corporate Services — Unit 001,Operations,Ontario,Service Delivery
+CC0002,Policy & Programs — Unit 002,Corporate Services,Atlantic,Service Delivery
+CC0003,Communications — Unit 003,Audit & Evaluation,National Capital Region,Strategy
+CC0004,Finance & Administration — Unit 004,Finance & Administration,Ontario,Strategy
+CC0005,International Affairs — Unit 005,Digital & Technology,Atlantic,Service Delivery
+CC0006,Policy & Programs — Unit 006,Policy & Programs,Pacific,Service Delivery
+CC0007,Policy & Programs — Unit 007,Audit & Evaluation,International,Service Delivery
+CC0008,Audit & Evaluation — Unit 008,International Affairs,Atlantic,Service Delivery
+CC0009,Digital & Technology — Unit 009,Corporate Services,International,Oversight
+CC0010,Operations — Unit 010,Legal Services,National Capital Region,Strategy
+CC0011,Finance & Administration — Unit 011,Corporate Services,Pacific,Strategy
+CC0012,Legal Services — Unit 012,Operations,Prairies,Oversight
+CC0013,Audit & Evaluation — Unit 013,Finance & Administration,National Capital Region,Strategy
+CC0014,International Affairs — Unit 014,Policy & Programs,Prairies,Oversight
+CC0015,Finance & Administration — Unit 015,International Affairs,Pacific,Enabling Services
+CC0016,Policy & Programs — Unit 016,Audit & Evaluation,Ontario,Service Delivery
+CC0017,International Affairs — Unit 017,Legal Services,National Capital Region,Oversight
+CC0018,Finance & Administration — Unit 018,Communications,National Capital Region,Service Delivery
+CC0019,Operations — Unit 019,Operations,National Capital Region,Enabling Services
+CC0020,Digital & Technology — Unit 020,Communications,National Capital Region,Oversight
+CC0021,Corporate Services — Unit 021,Operations,Prairies,Service Delivery
+CC0022,Legal Services — Unit 022,Audit & Evaluation,National Capital Region,Enabling Services
+CC0023,Finance & Administration — Unit 023,Corporate Services,Quebec,Service Delivery
+CC0024,Audit & Evaluation — Unit 024,Policy & Programs,Quebec,Strategy
+CC0025,Operations — Unit 025,International Affairs,Atlantic,Oversight
+CC0026,Policy & Programs — Unit 026,International Affairs,Pacific,Enabling Services
+CC0027,Communications — Unit 027,Digital & Technology,National Capital Region,Oversight
+CC0028,Finance & Administration — Unit 028,International Affairs,Quebec,Enabling Services
+CC0029,Operations — Unit 029,Communications,International,Service Delivery
+CC0030,Digital & Technology — Unit 030,Finance & Administration,International,Service Delivery
+CC0031,Finance & Administration — Unit 031,Corporate Services,International,Service Delivery
+CC0032,Audit & Evaluation — Unit 032,Policy & Programs,Pacific,Strategy
+CC0033,Finance & Administration — Unit 033,Operations,Quebec,Strategy
+CC0034,Corporate Services — Unit 034,Finance & Administration,Quebec,Strategy
+CC0035,Corporate Services — Unit 035,Operations,National Capital Region,Strategy
+CC0036,Communications — Unit 036,Legal Services,Quebec,Oversight
+CC0037,International Affairs — Unit 037,Policy & Programs,National Capital Region,Oversight
+CC0038,Audit & Evaluation — Unit 038,Audit & Evaluation,Quebec,Strategy
+CC0039,Operations — Unit 039,International Affairs,Prairies,Enabling Services
+CC0040,Legal Services — Unit 040,International Affairs,Ontario,Strategy
+CC0041,Operations — Unit 041,Finance & Administration,Ontario,Oversight
+CC0042,Communications — Unit 042,Policy & Programs,Prairies,Service Delivery
+CC0043,International Affairs — Unit 043,Corporate Services,Ontario,Enabling Services
+CC0044,International Affairs — Unit 044,International Affairs,Pacific,Enabling Services
+CC0045,International Affairs — Unit 045,Operations,National Capital Region,Oversight
+CC0046,Digital & Technology — Unit 046,International Affairs,International,Enabling Services
+CC0047,Digital & Technology — Unit 047,Corporate Services,National Capital Region,Oversight
+CC0048,Communications — Unit 048,International Affairs,Ontario,Enabling Services
+CC0049,Communications — Unit 049,Operations,International,Enabling Services
+CC0050,Finance & Administration — Unit 050,Policy & Programs,Prairies,Oversight
+CC0051,Operations — Unit 051,Digital & Technology,Atlantic,Service Delivery
+CC0052,Finance & Administration — Unit 052,Legal Services,Atlantic,Strategy
+CC0053,Digital & Technology — Unit 053,Operations,Ontario,Enabling Services
+CC0054,Corporate Services — Unit 054,Legal Services,International,Enabling Services
+CC0055,Audit & Evaluation — Unit 055,Finance & Administration,National Capital Region,Oversight
+CC0056,Finance & Administration — Unit 056,Policy & Programs,Pacific,Service Delivery
+CC0057,International Affairs — Unit 057,Finance & Administration,Atlantic,Oversight
+CC0058,Legal Services — Unit 058,Finance & Administration,Ontario,Strategy
+CC0059,Legal Services — Unit 059,Legal Services,Atlantic,Service Delivery
+CC0060,Audit & Evaluation — Unit 060,Audit & Evaluation,Quebec,Strategy
+CC0061,International Affairs — Unit 061,Legal Services,Pacific,Strategy
+CC0062,International Affairs — Unit 062,Legal Services,Quebec,Oversight
+CC0063,Operations — Unit 063,Digital & Technology,Pacific,Oversight
+CC0064,Legal Services — Unit 064,Legal Services,Ontario,Oversight
+CC0065,Digital & Technology — Unit 065,Digital & Technology,International,Enabling Services
+CC0066,Policy & Programs — Unit 066,Finance & Administration,Quebec,Oversight
+CC0067,Communications — Unit 067,Corporate Services,Quebec,Oversight
+CC0068,Audit & Evaluation — Unit 068,Operations,National Capital Region,Service Delivery
+CC0069,Legal Services — Unit 069,Corporate Services,Atlantic,Oversight
+CC0070,Policy & Programs — Unit 070,Corporate Services,Atlantic,Service Delivery
+CC0071,Finance & Administration — Unit 071,International Affairs,National Capital Region,Service Delivery
+CC0072,International Affairs — Unit 072,Audit & Evaluation,Atlantic,Service Delivery
+CC0073,Policy & Programs — Unit 073,Digital & Technology,National Capital Region,Enabling Services
+CC0074,Communications — Unit 074,Policy & Programs,International,Strategy
+CC0075,Corporate Services — Unit 075,Digital & Technology,Quebec,Strategy
+CC0076,Corporate Services — Unit 076,Finance & Administration,National Capital Region,Enabling Services
+CC0077,Digital & Technology — Unit 077,Corporate Services,National Capital Region,Oversight
+CC0078,Finance & Administration — Unit 078,Operations,Prairies,Strategy
+CC0079,Communications — Unit 079,Policy & Programs,Ontario,Strategy
+CC0080,Audit & Evaluation — Unit 080,Communications,International,Enabling Services
+CC0081,Operations — Unit 081,Legal Services,Atlantic,Strategy
+CC0082,Policy & Programs — Unit 082,Audit & Evaluation,Prairies,Service Delivery
+CC0083,International Affairs — Unit 083,Audit & Evaluation,Ontario,Enabling Services
+CC0084,International Affairs — Unit 084,Policy & Programs,Prairies,Enabling Services
+CC0085,International Affairs — Unit 085,International Affairs,Quebec,Service Delivery
+CC0086,Digital & Technology — Unit 086,Audit & Evaluation,International,Enabling Services
+CC0087,Digital & Technology — Unit 087,Audit & Evaluation,Pacific,Strategy
+CC0088,Digital & Technology — Unit 088,Digital & Technology,International,Strategy
+CC0089,Digital & Technology — Unit 089,Communications,Ontario,Enabling Services
+CC0090,Audit & Evaluation — Unit 090,Finance & Administration,Atlantic,Service Delivery
+CC0091,Audit & Evaluation — Unit 091,Corporate Services,Prairies,Strategy
+CC0092,Operations — Unit 092,Legal Services,Prairies,Enabling Services
+CC0093,Finance & Administration — Unit 093,Audit & Evaluation,Ontario,Oversight
+CC0094,Audit & Evaluation — Unit 094,Corporate Services,Pacific,Service Delivery
+CC0095,International Affairs — Unit 095,International Affairs,National Capital Region,Service Delivery
+CC0096,Legal Services — Unit 096,Digital & Technology,Atlantic,Strategy
+CC0097,Digital & Technology — Unit 097,Legal Services,Prairies,Enabling Services
+CC0098,Legal Services — Unit 098,Audit & Evaluation,National Capital Region,Strategy
+CC0099,Audit & Evaluation — Unit 099,Legal Services,Quebec,Enabling Services
+CC0100,Corporate Services — Unit 100,Legal Services,National Capital Region,Oversight
+CC0101,Audit & Evaluation — Unit 101,Policy & Programs,Quebec,Oversight
+CC0102,Digital & Technology — Unit 102,Operations,Ontario,Enabling Services
+CC0103,Corporate Services — Unit 103,Corporate Services,National Capital Region,Strategy
+CC0104,Operations — Unit 104,Legal Services,Ontario,Service Delivery
+CC0105,Communications — Unit 105,Operations,International,Service Delivery
+CC0106,Digital & Technology — Unit 106,Audit & Evaluation,Pacific,Enabling Services
+CC0107,Operations — Unit 107,Digital & Technology,National Capital Region,Enabling Services
+CC0108,Policy & Programs — Unit 108,International Affairs,International,Strategy
+CC0109,Policy & Programs — Unit 109,Legal Services,National Capital Region,Service Delivery
+CC0110,Corporate Services — Unit 110,Legal Services,National Capital Region,Strategy
+CC0111,International Affairs — Unit 111,Legal Services,International,Enabling Services
+CC0112,International Affairs — Unit 112,International Affairs,National Capital Region,Strategy
+CC0113,Communications — Unit 113,Audit & Evaluation,National Capital Region,Oversight
+CC0114,Legal Services — Unit 114,Finance & Administration,Prairies,Strategy
+CC0115,Operations — Unit 115,Digital & Technology,Ontario,Strategy
+CC0116,Digital & Technology — Unit 116,Policy & Programs,Pacific,Service Delivery
+CC0117,Finance & Administration — Unit 117,Communications,National Capital Region,Enabling Services
+CC0118,Policy & Programs — Unit 118,Audit & Evaluation,National Capital Region,Service Delivery
+CC0119,Digital & Technology — Unit 119,Audit & Evaluation,National Capital Region,Service Delivery
+CC0120,Legal Services — Unit 120,Audit & Evaluation,Ontario,Oversight

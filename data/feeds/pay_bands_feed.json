@@ -1,0 +1,1448 @@
+{
+  "source": "Meridian Compensation & Classification",
+  "as_of": "2025-12-31",
+  "currency": "CAD",
+  "methodology": "Pay grid re-benchmarked each fiscal year via collective agreement",
+  "classifications": [
+    {
+      "group": "CR",
+      "level": 1,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 44000.0,
+          "band_mid": 50000.0,
+          "band_max": 56000.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 45012.0,
+          "band_mid": 51150.0,
+          "band_max": 57288.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 47038.0,
+          "band_mid": 53452.0,
+          "band_max": 59866.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 48354.0,
+          "band_mid": 54948.0,
+          "band_max": 61542.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 49418.0,
+          "band_mid": 56157.0,
+          "band_max": 62896.0
+        }
+      ]
+    },
+    {
+      "group": "CR",
+      "level": 2,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 49280.0,
+          "band_mid": 56000.0,
+          "band_max": 62720.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 50413.0,
+          "band_mid": 57288.0,
+          "band_max": 64163.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 52682.0,
+          "band_mid": 59866.0,
+          "band_max": 67050.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 54157.0,
+          "band_mid": 61542.0,
+          "band_max": 68927.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 55348.0,
+          "band_mid": 62896.0,
+          "band_max": 70444.0
+        }
+      ]
+    },
+    {
+      "group": "CR",
+      "level": 3,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 54560.0,
+          "band_mid": 62000.0,
+          "band_max": 69440.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 55815.0,
+          "band_mid": 63426.0,
+          "band_max": 71037.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 58326.0,
+          "band_mid": 66280.0,
+          "band_max": 74234.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 59960.0,
+          "band_mid": 68136.0,
+          "band_max": 76312.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 61279.0,
+          "band_mid": 69635.0,
+          "band_max": 77991.0
+        }
+      ]
+    },
+    {
+      "group": "CR",
+      "level": 4,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 59840.0,
+          "band_mid": 68000.0,
+          "band_max": 76160.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 61216.0,
+          "band_mid": 69564.0,
+          "band_max": 77912.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 63971.0,
+          "band_mid": 72694.0,
+          "band_max": 81417.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 65762.0,
+          "band_mid": 74730.0,
+          "band_max": 83698.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 67209.0,
+          "band_mid": 76374.0,
+          "band_max": 85539.0
+        }
+      ]
+    },
+    {
+      "group": "CR",
+      "level": 5,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 65120.0,
+          "band_mid": 74000.0,
+          "band_max": 82880.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 66618.0,
+          "band_mid": 75702.0,
+          "band_max": 84786.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 69616.0,
+          "band_mid": 79109.0,
+          "band_max": 88602.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 71565.0,
+          "band_mid": 81324.0,
+          "band_max": 91083.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 73139.0,
+          "band_mid": 83113.0,
+          "band_max": 93087.0
+        }
+      ]
+    },
+    {
+      "group": "AS",
+      "level": 1,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 48400.0,
+          "band_mid": 55000.0,
+          "band_max": 61600.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 49513.0,
+          "band_mid": 56265.0,
+          "band_max": 63017.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 51741.0,
+          "band_mid": 58797.0,
+          "band_max": 65853.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 53190.0,
+          "band_mid": 60443.0,
+          "band_max": 67696.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 54360.0,
+          "band_mid": 61773.0,
+          "band_max": 69186.0
+        }
+      ]
+    },
+    {
+      "group": "AS",
+      "level": 2,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 54560.0,
+          "band_mid": 62000.0,
+          "band_max": 69440.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 55815.0,
+          "band_mid": 63426.0,
+          "band_max": 71037.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 58326.0,
+          "band_mid": 66280.0,
+          "band_max": 74234.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 59960.0,
+          "band_mid": 68136.0,
+          "band_max": 76312.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 61279.0,
+          "band_mid": 69635.0,
+          "band_max": 77991.0
+        }
+      ]
+    },
+    {
+      "group": "AS",
+      "level": 3,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 60720.0,
+          "band_mid": 69000.0,
+          "band_max": 77280.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 62117.0,
+          "band_mid": 70587.0,
+          "band_max": 79057.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 64911.0,
+          "band_mid": 73763.0,
+          "band_max": 82615.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 66730.0,
+          "band_mid": 75829.0,
+          "band_max": 84928.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 68197.0,
+          "band_mid": 77497.0,
+          "band_max": 86797.0
+        }
+      ]
+    },
+    {
+      "group": "AS",
+      "level": 4,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 66880.0,
+          "band_mid": 76000.0,
+          "band_max": 85120.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 68418.0,
+          "band_mid": 77748.0,
+          "band_max": 87078.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 71497.0,
+          "band_mid": 81247.0,
+          "band_max": 90997.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 73499.0,
+          "band_mid": 83522.0,
+          "band_max": 93545.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 75116.0,
+          "band_mid": 85359.0,
+          "band_max": 95602.0
+        }
+      ]
+    },
+    {
+      "group": "AS",
+      "level": 5,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 73040.0,
+          "band_mid": 83000.0,
+          "band_max": 92960.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 74720.0,
+          "band_mid": 84909.0,
+          "band_max": 95098.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 78082.0,
+          "band_mid": 88730.0,
+          "band_max": 99378.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 80268.0,
+          "band_mid": 91214.0,
+          "band_max": 102160.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 82034.0,
+          "band_mid": 93221.0,
+          "band_max": 104408.0
+        }
+      ]
+    },
+    {
+      "group": "PA",
+      "level": 1,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 52800.0,
+          "band_mid": 60000.0,
+          "band_max": 67200.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 54014.0,
+          "band_mid": 61380.0,
+          "band_max": 68746.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 56445.0,
+          "band_mid": 64142.0,
+          "band_max": 71839.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 58025.0,
+          "band_mid": 65938.0,
+          "band_max": 73851.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 59302.0,
+          "band_mid": 67389.0,
+          "band_max": 75476.0
+        }
+      ]
+    },
+    {
+      "group": "PA",
+      "level": 2,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 60720.0,
+          "band_mid": 69000.0,
+          "band_max": 77280.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 62117.0,
+          "band_mid": 70587.0,
+          "band_max": 79057.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 64911.0,
+          "band_mid": 73763.0,
+          "band_max": 82615.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 66730.0,
+          "band_mid": 75829.0,
+          "band_max": 84928.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 68197.0,
+          "band_mid": 77497.0,
+          "band_max": 86797.0
+        }
+      ]
+    },
+    {
+      "group": "PA",
+      "level": 3,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 68640.0,
+          "band_mid": 78000.0,
+          "band_max": 87360.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 70219.0,
+          "band_mid": 79794.0,
+          "band_max": 89369.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 73379.0,
+          "band_mid": 83385.0,
+          "band_max": 93391.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 75434.0,
+          "band_mid": 85720.0,
+          "band_max": 96006.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 77092.0,
+          "band_mid": 87605.0,
+          "band_max": 98118.0
+        }
+      ]
+    },
+    {
+      "group": "PA",
+      "level": 4,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 76560.0,
+          "band_mid": 87000.0,
+          "band_max": 97440.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 78321.0,
+          "band_mid": 89001.0,
+          "band_max": 99681.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 81845.0,
+          "band_mid": 93006.0,
+          "band_max": 104167.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 84137.0,
+          "band_mid": 95610.0,
+          "band_max": 107083.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 85988.0,
+          "band_mid": 97714.0,
+          "band_max": 109440.0
+        }
+      ]
+    },
+    {
+      "group": "PA",
+      "level": 5,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 84480.0,
+          "band_mid": 96000.0,
+          "band_max": 107520.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 86423.0,
+          "band_mid": 98208.0,
+          "band_max": 109993.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 90312.0,
+          "band_mid": 102627.0,
+          "band_max": 114942.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 92841.0,
+          "band_mid": 105501.0,
+          "band_max": 118161.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 94883.0,
+          "band_mid": 107822.0,
+          "band_max": 120761.0
+        }
+      ]
+    },
+    {
+      "group": "FI",
+      "level": 1,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 61600.0,
+          "band_mid": 70000.0,
+          "band_max": 78400.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 63017.0,
+          "band_mid": 71610.0,
+          "band_max": 80203.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 65852.0,
+          "band_mid": 74832.0,
+          "band_max": 83812.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 67697.0,
+          "band_mid": 76928.0,
+          "band_max": 86159.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 69186.0,
+          "band_mid": 78620.0,
+          "band_max": 88054.0
+        }
+      ]
+    },
+    {
+      "group": "FI",
+      "level": 2,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 71280.0,
+          "band_mid": 81000.0,
+          "band_max": 90720.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 72919.0,
+          "band_mid": 82863.0,
+          "band_max": 92807.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 76201.0,
+          "band_mid": 86592.0,
+          "band_max": 96983.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 78334.0,
+          "band_mid": 89016.0,
+          "band_max": 99698.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 80058.0,
+          "band_mid": 90975.0,
+          "band_max": 101892.0
+        }
+      ]
+    },
+    {
+      "group": "FI",
+      "level": 3,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 80960.0,
+          "band_mid": 92000.0,
+          "band_max": 103040.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 82822.0,
+          "band_mid": 94116.0,
+          "band_max": 105410.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 86549.0,
+          "band_mid": 98351.0,
+          "band_max": 110153.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 88972.0,
+          "band_mid": 101105.0,
+          "band_max": 113238.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 90930.0,
+          "band_mid": 103329.0,
+          "band_max": 115728.0
+        }
+      ]
+    },
+    {
+      "group": "FI",
+      "level": 4,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 90640.0,
+          "band_mid": 103000.0,
+          "band_max": 115360.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 92725.0,
+          "band_mid": 105369.0,
+          "band_max": 118013.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 96898.0,
+          "band_mid": 110111.0,
+          "band_max": 123324.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 99611.0,
+          "band_mid": 113194.0,
+          "band_max": 126777.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 101802.0,
+          "band_mid": 115684.0,
+          "band_max": 129566.0
+        }
+      ]
+    },
+    {
+      "group": "FI",
+      "level": 5,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 100320.0,
+          "band_mid": 114000.0,
+          "band_max": 127680.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 102627.0,
+          "band_mid": 116622.0,
+          "band_max": 130617.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 107246.0,
+          "band_mid": 121870.0,
+          "band_max": 136494.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 110248.0,
+          "band_mid": 125282.0,
+          "band_max": 140316.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 112674.0,
+          "band_mid": 128039.0,
+          "band_max": 143404.0
+        }
+      ]
+    },
+    {
+      "group": "EC",
+      "level": 1,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 63360.0,
+          "band_mid": 72000.0,
+          "band_max": 80640.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 64817.0,
+          "band_mid": 73656.0,
+          "band_max": 82495.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 67734.0,
+          "band_mid": 76971.0,
+          "band_max": 86208.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 69631.0,
+          "band_mid": 79126.0,
+          "band_max": 88621.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 71162.0,
+          "band_mid": 80866.0,
+          "band_max": 90570.0
+        }
+      ]
+    },
+    {
+      "group": "EC",
+      "level": 2,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 73920.0,
+          "band_mid": 84000.0,
+          "band_max": 94080.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 75620.0,
+          "band_mid": 85932.0,
+          "band_max": 96244.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 79023.0,
+          "band_mid": 89799.0,
+          "band_max": 100575.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 81235.0,
+          "band_mid": 92313.0,
+          "band_max": 103391.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 83023.0,
+          "band_mid": 94344.0,
+          "band_max": 105665.0
+        }
+      ]
+    },
+    {
+      "group": "EC",
+      "level": 3,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 84480.0,
+          "band_mid": 96000.0,
+          "band_max": 107520.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 86423.0,
+          "band_mid": 98208.0,
+          "band_max": 109993.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 90312.0,
+          "band_mid": 102627.0,
+          "band_max": 114942.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 92841.0,
+          "band_mid": 105501.0,
+          "band_max": 118161.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 94883.0,
+          "band_mid": 107822.0,
+          "band_max": 120761.0
+        }
+      ]
+    },
+    {
+      "group": "EC",
+      "level": 4,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 95040.0,
+          "band_mid": 108000.0,
+          "band_max": 120960.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 97226.0,
+          "band_mid": 110484.0,
+          "band_max": 123742.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 101601.0,
+          "band_mid": 115456.0,
+          "band_max": 129311.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 104446.0,
+          "band_mid": 118689.0,
+          "band_max": 132932.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 106744.0,
+          "band_mid": 121300.0,
+          "band_max": 135856.0
+        }
+      ]
+    },
+    {
+      "group": "EC",
+      "level": 5,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 105600.0,
+          "band_mid": 120000.0,
+          "band_max": 134400.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 108029.0,
+          "band_mid": 122760.0,
+          "band_max": 137491.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 112890.0,
+          "band_mid": 128284.0,
+          "band_max": 143678.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 116051.0,
+          "band_mid": 131876.0,
+          "band_max": 147701.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 118604.0,
+          "band_mid": 134777.0,
+          "band_max": 150950.0
+        }
+      ]
+    },
+    {
+      "group": "IT",
+      "level": 1,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 68640.0,
+          "band_mid": 78000.0,
+          "band_max": 87360.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 70219.0,
+          "band_mid": 79794.0,
+          "band_max": 89369.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 73379.0,
+          "band_mid": 83385.0,
+          "band_max": 93391.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 75434.0,
+          "band_mid": 85720.0,
+          "band_max": 96006.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 77092.0,
+          "band_mid": 87605.0,
+          "band_max": 98118.0
+        }
+      ]
+    },
+    {
+      "group": "IT",
+      "level": 2,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 80080.0,
+          "band_mid": 91000.0,
+          "band_max": 101920.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 81922.0,
+          "band_mid": 93093.0,
+          "band_max": 104264.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 85608.0,
+          "band_mid": 97282.0,
+          "band_max": 108956.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 88005.0,
+          "band_mid": 100006.0,
+          "band_max": 112007.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 89941.0,
+          "band_mid": 102206.0,
+          "band_max": 114471.0
+        }
+      ]
+    },
+    {
+      "group": "IT",
+      "level": 3,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 91520.0,
+          "band_mid": 104000.0,
+          "band_max": 116480.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 93625.0,
+          "band_mid": 106392.0,
+          "band_max": 119159.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 97838.0,
+          "band_mid": 111180.0,
+          "band_max": 124522.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 100578.0,
+          "band_mid": 114293.0,
+          "band_max": 128008.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 102790.0,
+          "band_mid": 116807.0,
+          "band_max": 130824.0
+        }
+      ]
+    },
+    {
+      "group": "IT",
+      "level": 4,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 102960.0,
+          "band_mid": 117000.0,
+          "band_max": 131040.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 105328.0,
+          "band_mid": 119691.0,
+          "band_max": 134054.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 110068.0,
+          "band_mid": 125077.0,
+          "band_max": 140086.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 113150.0,
+          "band_mid": 128579.0,
+          "band_max": 144008.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 115639.0,
+          "band_mid": 131408.0,
+          "band_max": 147177.0
+        }
+      ]
+    },
+    {
+      "group": "IT",
+      "level": 5,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 114400.0,
+          "band_mid": 130000.0,
+          "band_max": 145600.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 117031.0,
+          "band_mid": 132990.0,
+          "band_max": 148949.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 122298.0,
+          "band_mid": 138975.0,
+          "band_max": 155652.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 125722.0,
+          "band_mid": 142866.0,
+          "band_max": 160010.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 128488.0,
+          "band_mid": 146009.0,
+          "band_max": 163530.0
+        }
+      ]
+    },
+    {
+      "group": "EN",
+      "level": 1,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 70400.0,
+          "band_mid": 80000.0,
+          "band_max": 89600.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 72019.0,
+          "band_mid": 81840.0,
+          "band_max": 91661.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 75260.0,
+          "band_mid": 85523.0,
+          "band_max": 95786.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 77367.0,
+          "band_mid": 87917.0,
+          "band_max": 98467.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 79070.0,
+          "band_mid": 89852.0,
+          "band_max": 100634.0
+        }
+      ]
+    },
+    {
+      "group": "EN",
+      "level": 2,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 81840.0,
+          "band_mid": 93000.0,
+          "band_max": 104160.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 83722.0,
+          "band_mid": 95139.0,
+          "band_max": 106556.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 87490.0,
+          "band_mid": 99420.0,
+          "band_max": 111350.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 89940.0,
+          "band_mid": 102204.0,
+          "band_max": 114468.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 91919.0,
+          "band_mid": 104453.0,
+          "band_max": 116987.0
+        }
+      ]
+    },
+    {
+      "group": "EN",
+      "level": 3,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 93280.0,
+          "band_mid": 106000.0,
+          "band_max": 118720.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 95425.0,
+          "band_mid": 108438.0,
+          "band_max": 121451.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 99720.0,
+          "band_mid": 113318.0,
+          "band_max": 126916.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 102512.0,
+          "band_mid": 116491.0,
+          "band_max": 130470.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 104767.0,
+          "band_mid": 119053.0,
+          "band_max": 133339.0
+        }
+      ]
+    },
+    {
+      "group": "EN",
+      "level": 4,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 104720.0,
+          "band_mid": 119000.0,
+          "band_max": 133280.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 107129.0,
+          "band_mid": 121737.0,
+          "band_max": 136345.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 111949.0,
+          "band_mid": 127215.0,
+          "band_max": 142481.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 115084.0,
+          "band_mid": 130777.0,
+          "band_max": 146470.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 117616.0,
+          "band_mid": 133654.0,
+          "band_max": 149692.0
+        }
+      ]
+    },
+    {
+      "group": "EN",
+      "level": 5,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 116160.0,
+          "band_mid": 132000.0,
+          "band_max": 147840.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 118832.0,
+          "band_mid": 135036.0,
+          "band_max": 151240.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 124179.0,
+          "band_mid": 141113.0,
+          "band_max": 158047.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 127656.0,
+          "band_mid": 145064.0,
+          "band_max": 162472.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 130464.0,
+          "band_mid": 148255.0,
+          "band_max": 166046.0
+        }
+      ]
+    },
+    {
+      "group": "EX",
+      "level": 1,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 114400.0,
+          "band_mid": 130000.0,
+          "band_max": 145600.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 117031.0,
+          "band_mid": 132990.0,
+          "band_max": 148949.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 122298.0,
+          "band_mid": 138975.0,
+          "band_max": 155652.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 125722.0,
+          "band_mid": 142866.0,
+          "band_max": 160010.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 128488.0,
+          "band_mid": 146009.0,
+          "band_max": 163530.0
+        }
+      ]
+    },
+    {
+      "group": "EX",
+      "level": 2,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 132000.0,
+          "band_mid": 150000.0,
+          "band_max": 168000.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 135036.0,
+          "band_mid": 153450.0,
+          "band_max": 171864.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 141112.0,
+          "band_mid": 160355.0,
+          "band_max": 179598.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 145064.0,
+          "band_mid": 164845.0,
+          "band_max": 184626.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 148255.0,
+          "band_mid": 168472.0,
+          "band_max": 188689.0
+        }
+      ]
+    },
+    {
+      "group": "EX",
+      "level": 3,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 149600.0,
+          "band_mid": 170000.0,
+          "band_max": 190400.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 153041.0,
+          "band_mid": 173910.0,
+          "band_max": 194779.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 159928.0,
+          "band_mid": 181736.0,
+          "band_max": 203544.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 164406.0,
+          "band_mid": 186825.0,
+          "band_max": 209244.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 168023.0,
+          "band_mid": 190935.0,
+          "band_max": 213847.0
+        }
+      ]
+    },
+    {
+      "group": "EX",
+      "level": 4,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 167200.0,
+          "band_mid": 190000.0,
+          "band_max": 212800.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 171046.0,
+          "band_mid": 194370.0,
+          "band_max": 217694.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 178743.0,
+          "band_mid": 203117.0,
+          "band_max": 227491.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 183748.0,
+          "band_mid": 208804.0,
+          "band_max": 233860.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 187790.0,
+          "band_mid": 213398.0,
+          "band_max": 239006.0
+        }
+      ]
+    },
+    {
+      "group": "EX",
+      "level": 5,
+      "band_history": [
+        {
+          "effective_date": "2021-01-01",
+          "band_min": 184800.0,
+          "band_mid": 210000.0,
+          "band_max": 235200.0
+        },
+        {
+          "effective_date": "2022-01-01",
+          "band_min": 189050.0,
+          "band_mid": 214830.0,
+          "band_max": 240610.0
+        },
+        {
+          "effective_date": "2023-01-01",
+          "band_min": 197557.0,
+          "band_mid": 224497.0,
+          "band_max": 251437.0
+        },
+        {
+          "effective_date": "2024-01-01",
+          "band_min": 203089.0,
+          "band_mid": 230783.0,
+          "band_max": 258477.0
+        },
+        {
+          "effective_date": "2025-01-01",
+          "band_min": 207558.0,
+          "band_mid": 235861.0,
+          "band_max": 264164.0
+        }
+      ]
+    }
+  ]
+}
