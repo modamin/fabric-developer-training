@@ -79,7 +79,7 @@ configuration des notebooks ou du lakehouse des problèmes d'orchestration.
 
 1. Dans l'espace de travail Fabric, sélectionnez **+ Nouvel élément -> Pipeline de données**.
 2. Nommez le pipeline `etl`.
-3. Ajoutez quatre activités Notebook :
+3. Ajoutez 4 activités Notebook :
 
 | Activité | Notebook | Dépendance |
 | --- | --- | --- |
